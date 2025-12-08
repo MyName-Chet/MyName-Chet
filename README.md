@@ -1,60 +1,40 @@
-# Hi 👋 My name is The Lord of Code
+# 👋 C H E T (เชษ) - Future Data & Software
 
-### Junior Full-Stack Developer
-
-And this is a space for me to showcase my creations. I enjoy turning ideas into interesting websites, whether it's a personal project or a collaborative project. I'm always open to learning new things and always up for a challenge.
+### "Data-Driven Mindset with a Builder's Heart"
 
 ---
 
-* 🧠 I'm learning: I'm currently expanding my skill set with Python and other languages. My self-study is focused on cyber security, network fundamentals, and back-end development to become a more well-rounded developer.
-* ⚡ May the code be with you.
+## 🚀 About Me - นักศึกษา, ผู้เรียนรู้, และคนสร้าง
 
-### Skills
+ผมชื่อ **เชษ** (Chet) เป็นนักศึกษา สาขาวิทยาการข้อมูลและนวัตกรรมซอฟต์แวร์ (Data Science and Software Innovation) จาก มหาวิทยาลัยอุบลราชธานี
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-  </a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
-  </a>
-</p>
+🔥 **My Current Vibe & Focus:**
+* กำลังตามหา Passion ในการทำ Web Development (Frontend & Backend) และ Data 
+* ตั้งใจสร้างวินัยตัวเองให้พัฒนาสกิลโค้ดดิ้งอย่างต่อเนื่อง
+* กำลังมองหาวิธีสร้างรายได้แบบ **"ไม่ต้องเจอคนเยอะ"** ผ่าน Freelancing หรือการทำ Side Projects ในโลก Tech
 
-### Socials
+## 🛠️ Tech Stack & Learning Journey
 
-<p align="left">
-  <a href="https://discord.com/users/i_am_chetttttttt" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
-    </picture>
-  </a>
-</p>
+| Category | Tools & Technologies | Current Learning Goal |
+| :--- | :--- | :--- |
+| **Languages** | `Python` (หลัก), `JavaScript` (กำลังเริ่ม), `SQL` | เน้นเข้าใจ OOP/Functional Programming และ Async/Await ใน JS |
+| **Web Dev** | `HTML`, `CSS`, `React` (อยากลอง), `Node.js` (Backend Goal) | สร้าง Full-Stack App ง่ายๆ 1 ตัวในช่วงปิดเทอม |
+| **Data Tools** | `Pandas`, `NumPy`, `Jupyter` | ฝึกทำ Data Visualization และ ETL Pipeline พื้นฐาน |
+| **Version Control** | `Git` & `GitHub` (แน่นอน!) | จัดการ Branching และ Commit History ให้เป็นระเบียบ |
+
+## 🌟 What I'm Up To Now
+
+* **Current Project:** [Link ไปยัง Repo ที่น่าสนใจที่สุดที่กำลังทำอยู่] - (ใส่ชื่อโปรเจกต์สั้นๆ ที่กำลังทำ)
+* **Reading/Learning:** Deep dive เข้าใจการทำงานของ RESTful APIs
+* **Goal:** ใช้ปิดเทอมให้คุ้มด้วยการสร้าง **Minimum Viable Product (MVP)** 1 ชิ้น
+
+---
+
+## 🔗 Connect & Collab
+
+ถ้าใครสนใจ Data, Web Tech, หรืออยากแชร์ไอเดียสร้างวินัย โยนข้อความมาได้เลย!
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([ใส่ URL LinkedIn ของเชษตรงนี้])
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
+
+> *“Consistency beats intensity. I'm taking it one commit at a time.”*
